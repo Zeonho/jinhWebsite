@@ -1,4 +1,13 @@
 # A Personal Website Project
 
-- [ ] Course Table
+
+
+#### Functions
+
+- [ ] Course Table (calendar)
+
 - [ ] Trello API
+
+- [ ] Gallery
+
+  
